@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="10.080619">
+    <testcase classname="Automation Practice Home Page" name="Automation Home Page Test" time="6.158985">
+        <system-out><![CDATA[Given user is on home page..................................................passed
+Then click on Sign In.......................................................passed
+Then verify title on Sign In page...........................................passed
+Then close the browser......................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Automation Practice Home Page" name="Foother information link Test" time="3.921634">
+        <system-out><![CDATA[Given user is on home page to check links...................................passed
+Then user check information links...........................................passed
+Then close the broser.......................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>

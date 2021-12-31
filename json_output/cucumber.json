@@ -1,0 +1,668 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 169176,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.setUp1()"
+            }
+          },
+          {
+            "result": {
+              "duration": 121248,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.setUp2()"
+            }
+          },
+          {
+            "result": {
+              "duration": 108951,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.setUp()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Tagging",
+        "description": "",
+        "id": "tagging-practice;tagging",
+        "after": [
+          {
+            "result": {
+              "duration": 93768,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.tearDown()"
+            }
+          },
+          {
+            "result": {
+              "duration": 65888,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.tearDown2()"
+            }
+          },
+          {
+            "result": {
+              "duration": 62001,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.tearDown1()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 196234452,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user login",
+            "match": {
+              "location": "TaggingTest.user_login()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 2,
+            "name": "@First"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 73007,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.setUp1()"
+            }
+          },
+          {
+            "result": {
+              "duration": 70611,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.setUp2()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "Tagging",
+        "description": "",
+        "id": "tagging-practice;tagging",
+        "after": [
+          {
+            "result": {
+              "duration": 56475,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.tearDown2()"
+            }
+          },
+          {
+            "result": {
+              "duration": 56495,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.tearDown1()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 26172,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user logout",
+            "match": {
+              "location": "TaggingTest.user_logout()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 5,
+            "name": "@Second"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 62160,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.setUp1()"
+            }
+          },
+          {
+            "result": {
+              "duration": 46125,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.setUp2()"
+            }
+          }
+        ],
+        "line": 9,
+        "name": "Tagging",
+        "description": "",
+        "id": "tagging-practice;tagging",
+        "after": [
+          {
+            "result": {
+              "duration": 59869,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.tearDown2()"
+            }
+          },
+          {
+            "result": {
+              "duration": 72117,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.tearDown1()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 27722,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user contact",
+            "match": {
+              "location": "TaggingTest.user_contact()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 8,
+            "name": "@Third"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 81251,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.setUp1()"
+            }
+          },
+          {
+            "result": {
+              "duration": 49248,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.setUp2()"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "Tagging",
+        "description": "",
+        "id": "tagging-practice;tagging",
+        "after": [
+          {
+            "result": {
+              "duration": 58912,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.tearDown2()"
+            }
+          },
+          {
+            "result": {
+              "duration": 50071,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.tearDown1()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 43016,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user deals",
+            "match": {
+              "location": "TaggingTest.user_deals()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 96501,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.setUp1()"
+            }
+          },
+          {
+            "result": {
+              "duration": 52413,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.setUp2()"
+            }
+          }
+        ],
+        "line": 15,
+        "name": "Tagging",
+        "description": "",
+        "id": "tagging-practice;tagging",
+        "after": [
+          {
+            "result": {
+              "duration": 75372,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.tearDown2()"
+            }
+          },
+          {
+            "result": {
+              "duration": 72687,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.tearDown1()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 29738,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user case",
+            "match": {
+              "location": "TaggingTest.user_case()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 86678,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.setUp1()"
+            }
+          },
+          {
+            "result": {
+              "duration": 60788,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.setUp2()"
+            }
+          }
+        ],
+        "line": 18,
+        "name": "Tagging",
+        "description": "",
+        "id": "tagging-practice;tagging",
+        "after": [
+          {
+            "result": {
+              "duration": 44875,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.tearDown2()"
+            }
+          },
+          {
+            "result": {
+              "duration": 33666,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.tearDown1()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 26950,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user test",
+            "match": {
+              "location": "TaggingTest.user_test()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 68700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.setUp1()"
+            }
+          },
+          {
+            "result": {
+              "duration": 47254,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.setUp2()"
+            }
+          }
+        ],
+        "line": 21,
+        "name": "Tagging",
+        "description": "",
+        "id": "tagging-practice;tagging",
+        "after": [
+          {
+            "result": {
+              "duration": 38111,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.tearDown2()"
+            }
+          },
+          {
+            "result": {
+              "duration": 37952,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.tearDown1()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 26123,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "user selenium",
+            "match": {
+              "location": "TaggingTest.user_selenium()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 50892,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.setUp1()"
+            }
+          },
+          {
+            "result": {
+              "duration": 34429,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.setUp2()"
+            }
+          }
+        ],
+        "line": 24,
+        "name": "Tagging",
+        "description": "",
+        "id": "tagging-practice;tagging",
+        "after": [
+          {
+            "result": {
+              "duration": 35210,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.tearDown2()"
+            }
+          },
+          {
+            "result": {
+              "duration": 28276,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.tearDown1()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 23677,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "user java",
+            "match": {
+              "location": "TaggingTest.user_java()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 50201,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.setUp1()"
+            }
+          },
+          {
+            "result": {
+              "duration": 32449,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.setUp2()"
+            }
+          }
+        ],
+        "line": 27,
+        "name": "Tagging",
+        "description": "",
+        "id": "tagging-practice;tagging",
+        "after": [
+          {
+            "result": {
+              "duration": 40354,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.tearDown2()"
+            }
+          },
+          {
+            "result": {
+              "duration": 37208,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.tearDown1()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 33022,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "user cucumber",
+            "match": {
+              "location": "TaggingTest.user_cucumber()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 93821,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.setUp1()"
+            }
+          },
+          {
+            "result": {
+              "duration": 73182,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.setUp2()"
+            }
+          }
+        ],
+        "line": 30,
+        "name": "Tagging",
+        "description": "",
+        "id": "tagging-practice;tagging",
+        "after": [
+          {
+            "result": {
+              "duration": 34166,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.tearDown2()"
+            }
+          },
+          {
+            "result": {
+              "duration": 36630,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggingTest.tearDown1()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 25517,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "user krutarth",
+            "match": {
+              "location": "TaggingTest.user_krutarth()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      }
+    ],
+    "name": "Tagging practice",
+    "description": "",
+    "id": "tagging-practice",
+    "keyword": "Feature",
+    "uri": "/Volumes/Macintosh HD - Data/Selenium/Selenium_Workspace/CucumberPractice/src/main/java/features/taggedHooks.feature"
+  }
+]

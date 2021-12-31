@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="10" time="0.199114">
+    <testcase classname="Tagging practice" name="Tagging" time="0.196855">
+        <system-out><![CDATA[Given user login............................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Tagging practice" name="Tagging" time="0.000283">
+        <system-out><![CDATA[Given user logout...........................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Tagging practice" name="Tagging" time="0.000268">
+        <system-out><![CDATA[Given user contact..........................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Tagging practice" name="Tagging" time="0.000282">
+        <system-out><![CDATA[Given user deals............................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Tagging practice" name="Tagging" time="0.000327">
+        <system-out><![CDATA[Given user case.............................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Tagging practice" name="Tagging" time="0.000253">
+        <system-out><![CDATA[Given user test.............................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Tagging practice" name="Tagging" time="0.000218">
+        <system-out><![CDATA[Given user selenium.........................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Tagging practice" name="Tagging" time="0.000172">
+        <system-out><![CDATA[Given user java.............................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Tagging practice" name="Tagging" time="0.000193">
+        <system-out><![CDATA[Given user cucumber.........................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Tagging practice" name="Tagging" time="0.000263">
+        <system-out><![CDATA[Given user krutarth.........................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
