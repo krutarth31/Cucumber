@@ -12,3 +12,9 @@ Scenario: Foother information link Test
 Given user is on home page to check links
 Then user check information links
 Then close the browser
+
+
+//Added
+
+
+//Added code to merge
